@@ -1,0 +1,2 @@
+#!/bin/bash
+irb -r bundler/setup -r vital_signs

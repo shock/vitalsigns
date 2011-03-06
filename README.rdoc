@@ -1,0 +1,33 @@
+= VitalSigns
+
+* http://github.com/capitalthought/vital_signs
+
+== DESCRIPTION
+
+Rails engine that supports built in application monitoring.
+
+== INSTALLATION
+
+vital_signs is installed as a Ruby gem.  
+
+  gem install vital_signs
+  
+Include the gem in your Gemfile.
+
+  gem 'vital_signs'
+
+== LICENSE
+
+  Copyright 2010 Capital Thought, LLC
+
+  Licensed under the Apache License, Version 2.0 (the "License");
+  you may not use any part of this software or its source code except 
+  in compliance with the License.  You may obtain a copy of the License at
+
+      http://www.apache.org/licenses/LICENSE-2.0
+
+  Unless required by applicable law or agreed to in writing, software
+  distributed under the License is distributed on an "AS IS" BASIS,
+  WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  See the License for the specific language governing permissions and
+  limitations under the License.
